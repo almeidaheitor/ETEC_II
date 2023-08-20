@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Comfortaa:wght@300;400;500;600;700&display=swap');
+
+#icon{
+    fill: white;
+}
+/* Estilos gerais */
+body {
+    font-family: 'Comfortaa', cursive;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    font-family: 'Coiny', cursive;
+    background-color: #FDF9F7;
+    color: #080402;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav a {
+    color: #333;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  h1,
+  h2 {
+    color: #333;
+  }
+
+  #mapa{
+    text-align: center;
+  }
+
+  .form{
+    align-content: center;
+  }
+  
